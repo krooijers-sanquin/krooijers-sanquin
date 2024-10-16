@@ -1,16 +1,13 @@
-## Hi there 👋
+## Koos Rooijers - Researcher at Sanquin
 
-<!--
-**krooijers-sanquin/krooijers-sanquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on proteomics data analysis.
+- clustering peptides and merging samples across datasets, using graph algorithms
+- applying Bayesian modeling to
+  - handle missing values in data
+  - deal with missing samples (or, unbalanced designs)
+  - extract biologically meaningful metrics, from complex experimental setups
+  - obtain credible intervals for those, reduce false positives
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have found this page through interest for proteomics analysis workflows and want to collaborate or use the code:
+- don't hesitate to reach out, either on github or by email
+- repositories will be made available Soon(tm)
