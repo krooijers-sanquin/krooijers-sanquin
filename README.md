@@ -10,4 +10,4 @@ Currently working on proteomics data analysis.
 
 If you have found this page through interest for proteomics analysis workflows and want to collaborate or use the code:
 - don't hesitate to reach out, either on github or by email
-- repositories will be made available Soon(tm)
+- repositories will be made available Soon™
