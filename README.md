@@ -2,6 +2,7 @@
 
 Currently working on proteomics data analysis.
 - clustering peptides and merging samples across datasets, using graph algorithms
+  - see here: https://github.com/krooijers-sanquin/2024-proteomics-preprocessing
 - applying Bayesian modeling to
   - handle missing values in data
   - deal with missing samples (or, unbalanced designs)
